@@ -9,3 +9,5 @@
 5. https://github.com/prakhargurawa/Neural-Machine-Translation-Keras-Attention/blob/main/translation_neural_network_model.py
 
 6. https://www.tensorflow.org/text/tutorials/nmt_with_attention
+
+7. https://www.tensorflow.org/text/tutorials/text_classification_rnn
